@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Eu sou o Kauã Gomes
+## 👨🏻‍💻 Kauã Gomes
 
 **`Desenvolvedor FullStack`**
 
