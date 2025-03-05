@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Kauã Gomes
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-End`**
 
 Olá! Sou Kauã Gomes Figueredo, estudante de Sistemas de Informação na Universidade Anhembi Morumbi (UAM).  
 Tenho 21 anos e sou apaixonado por tecnologia e inovação.
